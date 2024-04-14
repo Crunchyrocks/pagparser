@@ -6,10 +6,6 @@ read me:
 2. have fun
 
 
-
-PAG PARSER 2 is what you should use , the normal python was just testing / no data... many changes since the
-
-
 COMMANDS:
 
 breaks ;
