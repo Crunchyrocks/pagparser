@@ -1,0 +1,334 @@
+"little": [
+                # kanto 1-151 (gen 1) (LC)
+                (1,[0,11,15]),#Bulbasaur
+                (2,[0,10,15]),#Ivysaur
+                (3,[3,15,14]),#Venusaur
+                (4,[0,15,11]),#Charmander
+                (5,[1,15,15]),#Charmeleon
+                (6,[6,15,15]),#Charizard
+                (7,[0,15,14]), #Squirtle
+                (8,[0,12,10]), #Wartortle
+                (9,[0,15,7]),#Blastoise
+                (13,[13,15,15]), #Weedle
+                (14,[15,15,15]), #Kakuna
+                (15,[0,12,13]), #Beedrill
+                (19,[1,15,15]), #Rattata
+                (20,[0,15,12]), #Raticate
+                (23,[0,14,15]), #Ekans
+                (24,[0,14,14]), #Arbok
+                (27,[0,10,14]), #Sandshrew
+                (28,[0,15,11]), #Sandslash (ALOLAN)
+                (28,[3,14,14]), #Sandslash 
+                (29,[0,13,14]), #Nidoran Female
+                (30,[1,15,14]), #Nidorina
+                (31,[0,12,4]), #Nidoqueen
+                (32,[0,15,12]), # Nidoran Male
+                (33,[0,14,15]), #Nidorino
+                (34,[0,14,14]), #Nidoking
+                (37,[0,15,14]), #Vulpix
+                (38,[0,8,14]), #Ninetails (ALOLAN)
+                (38,[0,13,14]), #Ninetails
+                (41,[0,15,15]), #Zubat
+                (42,[4,15,14]), #Golbat
+                (43,[0,15,13]), #Oddish
+                (44,[0,15,13]), #Gloom
+                (45,[0,14,15]), #Vileplume
+                (48,[0,15,15]), #Venonat
+                (49,[4,15,14]), #Venomoth
+                (50,[0,15,13]), #Diglett (Alolan)
+                (50,[1,15,13]), #Diglett
+                (51,[0,15,13]), #Dugtrio (Alolan)
+                (51,[0,11,12]), #Dugtrio
+                (52,[1,15,14]), #Meowth
+                (53,[0,15,12]), #Persian
+                (54,[0,12,15]), #Psyduck
+                (55,[0,11,10]), #Golduck
+                (58,[0,10,15]), #Growlithe
+                (59,[0,8,14]), #Arcanine
+                (60,[0,13,15]), #Poliwag
+                (61,[0,11,14]), #Poliwhirl
+                (62,[0,14,14]), #Poliwrath
+                (63,[1,15,14]), #Abra
+                (64,[4,15,13]), #Kadabra
+                (65,[0,0,15]), #Alakazam
+                (66,[2,15,14]), #Machop
+                (67,[0,15,10]), #Machoke
+                (68,[0,7,11]), #Machamp
+                (69,[0,15,11]), #Bellsprout
+                (70,[0,13,13]), #Weepinbell
+                (71,[0,14,8]), #Victreebel
+                (72,[0,15,14]), #Tentacool
+                (73,[1,14,13]), #Tentacruel 
+                (74,[1,15,14]), #Geodude (Alolan)
+                (74,[1,15,14]), #Geodude
+                (75,[1,15,15]), #Graveler (Alolan)
+                (75,[1,15,15]), #Graveler
+                (76,[3,15,13]), #Golem (Alolan)
+                (76,[3,15,13]), #Golem
+                (79,[2,15,14]), #Slowpoke
+                (80,[3,15,14]), #Slowbro
+                (81,[1,15,14]), #Magnemite
+                (82,[5,15,15]), #Magneton
+                (88,[1,15,15]), #Grimer (Alolan)
+                (88,[1,15,15]), #Grimer
+                (89,[1,15,14]), #Muk (Alolan)
+                (89,[1,15,14]), #Muk
+                (90,[0,12,15]), #Shellder
+                (91,[2,14,15]), #Cloyster
+                (92,[0,14,15]), #Gastly
+                (93,[2,15,14]), #Haunter 
+                (95,[0,15,11]), #Onix
+                (96,[0,12,13]), #Drowzee
+                (97,[0,11,9]), #Hypno
+                (100,[0,12,14]), #Voltorb
+                (101,[4,14,13]), #Electrode 
+                (102,[0,15,15]), #Exeggcute
+                (103,[0,12,11]), #Exeggutor (Alolan)
+                (103,[0,14,8]), #Exeggutor
+                (104,[0,15,15]), #Cubone
+                (105,[1,15,14]), #Marowak (Alolan) / Marowak
+                (106,[0,13,12]), #Hitmonlee
+                (107,[5,15,15]), #Hitmonchan 
+                (109,[0,15,11]), #Koffing
+                (110,[0,15,10]), #Weezing
+                (111,[0,13,9]), #Rhyhorn
+                (112,[4,15,15]), #Rhydon
+                (114,[2,15,13]), #Tangela
+                (116,[0,15,15]), #Horsea
+                (117,[2,15,15]), #Seadra
+                (123,[2,15,15]), #Scyther
+                (125,[5,15,14]), #Electabuzz
+                (126,[0,15,13]), #Magmar
+                (127,[1,15,13]), #Pinsir
+                (129,[15,15,15]), #Magikarp
+                (130,[12,15,13]), #Gyarados
+                (131,[0,12,10]), #Lapras
+                (137,[3,15,14]), #Porygon
+                (138,[0,14,14]), #Omanyte
+                (139,[0,13,12]), #Omastar
+                (142,[0,15,8]), #Aerodactyl
+                (143,[3,15,14]), #Snorlax
+                (147,[0,15,15]), #Dratini
+                (148,[0,13,9]), #Dragonair
+                (149,[9,15,15]), #Dragonite
+                (150,[15,15,15]), #Mewtwo
+
+                
+                # Johto 152-248 (gen 2) (LC)
+                
+                (152,[0,14,13]), #Chikorita
+                (153,[0,15,15]), #Bayleef
+                (154,[1,15,14]), #Meganium
+                (155,[0,15,11]), #Cyndaquil
+                (156,[1,15,15]), #Quilava
+                (157,[6,15,15]), #Typhlosion
+                (158,[0,15,14]), #Totodile
+                (159,[3,15,14]), #Croconaw
+                (160,[0,1,14]), #Feraligatr
+                (165,[0,15,15]), #Ledyba
+                (166,[0,11,15]), #Ledian
+                (169,[0,6,12]), #Crobat
+                (177,[1,15,15]), #Natu
+                (178,[0,13,5]), #Xatu
+                (179,[0,15,15]), #Mareep
+                (180,[0,12,11]), #Flaaffy
+                (181,[0,7,8]), #Ampharos
+                (182,[0,14,13]), #Bellossom
+                (185,[0,13,14]), #Sudowoodo
+                (186,[0,14,9]), #Politoed
+                (187,[0,15,14]), #Hoppip
+                (188,[0,14,15]), #Skiploom
+                (189,[1,15,14]), #Jumpluff
+                (190,[0,14,14]), #Aipom
+                (194,[0,15,15]), #Wooper
+                (195,[0,5,14]), #Quagsire
+                (198,[3,15,14]), #Murkrow
+                (199,[3,15,14]), #Slowking
+                (200,[0,13,14]), #Misdreavus
+                (202,[0,15,9]), #Wobbuffet
+                (203,[0,14,8]), #Girafarig
+                (204,[0,15,15]), #Pineco
+                (205,[0,15,14]), #Forretress
+                (207,[0,12,15]), #Gligar
+                (208,[2,15,15]), #Steelix
+                (209,[0,12,14]), #Snubbull
+                (210,[0,15,14]), #Granbull
+                (212,[0,11,13]), #Scizor
+                (213,[15,15,15]), #Shuckle
+                (215,[0,11,10]), #Sneasel (Hisuian) and #Sneasel
+                (216,[0,15,15]), #Teddiursa
+                (217,[1,15,14]), #Ursaring
+                (220,[0,15,15]), #Swinub
+                (221,[4,15,15]), #Piloswine
+                (225,[0,13,15]), #Delibird
+                (227,[3,15,15]), #Skarmory
+                (228,[0,15,15]), #Houndour
+                (229,[0,10,7]), #Houndoom
+                (230,[0,3,15]), #Kingdra
+                (231,[0,15,15]), #Phanpy
+                (232,[0,13,11]), #Donphan
+                (233,[4,15,14]), #Porygon2
+                (234,[0,11,11]), #Stantler
+                (237,[0,15,11]), #Hitmontop
+                (246,[0,15,15]), #Larvitar
+                (247,[0,15,11]), #Pupitar
+                (248,[7,15,14]), #Tyranitar
+
+
+                #Hoenn 248-387 (gen 3) (LC)
+                (252,[1,15,15]), #Treecko
+                (253,[0,15,12]), #Grovyle
+                (254,[0,15,12]), #Sceptile
+                (255,[0,13,15]), #Torchic
+                (256,[1,15,15]), #Combusken
+                (257,[0,9,5]), #Blaziken
+                (258,[0,14,14]), #Mudkip
+                (259,[0,13,11]), #Marshtomp
+                (260,[0,15,15]), #Swampert
+                (261,[0,15,14]), #Poochyena
+                (262,[0,12,15]), #Mightyena
+                (273,[0,15,15]), #Seedot
+                (274,[0,15,12]), #Nuzleaf
+                (275,[4,15,15]), #Shiftry
+                (280,[1,15,15]), #Ralts
+                (281,[0,14,15]), #Kirlia
+                (282,[0,9,4]), #Gardevoir
+                (293,[0,15,13]), #Whismur
+                (294,[0,15,6]), #Loudred
+                (295,[5,15,14]), #Exploud
+                (296,[0,14,13]), #Makuhita
+                (297,[0,13,2]), #Hariyama
+                (299,[0,14,14]), #Nosepass
+                (302,[2,14,15]), #Sableye
+                (303,[0,13,10]), #Mawile
+                (304,[1,14,14]), #Aron 
+                (305,[0,11,13]), #Lairon
+                (306,[0,15,13]), #Aggron
+                (309,[0,14,14]), #Electrike
+                (310,[3,15,15]), #Manectric
+                (318,[1,15,15]), #Carvanha
+                (319,[4,15,14]), #Sharpedo
+                (320,[0,12,15]), #Wailmer
+                (321,[0,14,12]), #Wailord
+                (322,[1,15,15]), #Numel
+                (323,[4,15,15]), #Camerupt
+                (325,[0,12,12]), #Spoink
+                (326,[4,15,13]), #Grumpig
+                (328,[0,15,15]), #Trapinch
+                (329,[0,15,13]), #Vibrava
+                (330,[0,8,6]), #Flygon
+                (331,[0,15,14]), #Cacnea
+                (332,[7,15,15]), #Cacturne
+                (339,[0,15,13]), #Barboach
+                (340,[0,11,11]), #Whiscash
+                (341,[0,14,12]), #Corphish
+                (342,[6,15,15]), #Crawdaunt
+                (345,[0,15,15]), #Lileep
+                (346,[0,6,13]), #Cradily
+                (347,[0,14,14]), #Anorith
+                (348,[0,7,8]), #Armaldo
+                (353,[1,15,14]), #Shuppet
+                (354,[0,9,11]), #Bantte
+                (355,[0,15,15]), #Duskull
+                (356,[0,14,12]), #Dusclops
+                (359,[0,15,15]), #Absol
+                (361,[0,15,13]), #Snorunt
+                (362,[4,14,13]), #Glalie
+                (363,[0,15,15]), #Spheal
+                (364,[0,14,10]), #Sealeo
+                (365,[4,15,13]), #Walrein
+                (371,[0,15,12]), #Bagon
+                (372,[0,11,15]), #Shelgon
+                (373,[12,15,15]), #Salamence
+                (374,[0,12,14]), #Beldum
+                (375,[0,8,15]), #Metang
+                (376,[10,15,14]), #Metagross
+                (380,[6,11,13]), #Latias
+                (381,[8,15,14]), #Latios
+                (382,[15,15,15]), #Kyogre
+                
+
+
+                #Sinnoh 387-492 (gen 4) (LC)
+                (387,[0,10,14]), #Turtwig
+                (388,[4,15,11]), #Grotle
+                (389,[4,15,14]), #Torterra
+                (390,[0,13,14]), #Chimchar
+                (391,[0,11,12]), #Monferno
+                (392,[4,15,15]), #Infernape
+                (393,[0,14,15]), #Piplup
+                (394,[0,14,11]), #Prinplup
+                (395,[5,15,15]), #Empoleon
+                (396,[0,14,12]), #Starly
+                (397,[0,15,13]), #Staravia
+                (398,[0,5,14]), #Staraptor
+                (399,[0,15,13]), #Bidoof
+                (400,[0,15,15]), #Bibarel
+                (403,[0,15,15]), #Shinx
+                (404,[0,14,14]), #Luxio
+                (405,[6,15,14]), #Luxray
+                (408,[0,12,14]), #Cranidos
+                (409,[0,10,9]), #Rampardos
+                (410,[0,11,13]), #Shieldon
+                (411,[0,14,8]), #Bastiodon
+                (424,[0,11,14]), #Ambipom
+                (425,[0,15,15]), #Drifloon
+                (426,[2,15,14]), #Drifblim
+                (429,[0,13,8]), #Mismagius
+                (430,[2,15,13]), #Honchkrow
+                (431,[0,14,14]), #Glameow
+                (432,[0,9,13]), #Purugly
+                (434,[0,11,14]), #Stunky
+                (435,[4,15,13]), #Skuntank
+                (443,[0,11,15]), #Gible 
+                (444,[3,15,14]), #Gabite
+                (445,[0,13,13]), #Garchomp
+                (449,[0,15,14]), #Hippopotas
+                (450,[0,2,15]), #Hippowdon
+                (451,[1,15,14]), #Skorupi
+                (452,[0,10,12]), #Drapion
+                (453,[0,13,15]), #Croagunk
+                (454,[5,15,15]), #Toxicroak
+                (459,[1,14,15]), #Snover
+                (460,[3,15,15]), #Abomasnow
+                (461,[0,13,10]), #Weavile
+                (462,[1,15,15]), #Magnezone
+                (464,[0,3,4]), #Rhyperior
+                (465,[0,12,11]), #Tangrowth
+                (466,[0,7,7]), #Electivire
+                (467,[8,15,13]), #Magmortar
+                (472,[6,15,14]), #Gliscor
+                (473,[0,13,1]), #Mamoswine
+                (474,[0,12,11]), #Porygon-Z
+                (475,[0,9,4]), #Gallade
+                (476,[0,11,13]), #Probopass
+                (477,[2,15,14]), #Dusknoir
+
+                #Unova 494-649 (gen 5) (UL)
+
+                (478,[0,12,13]), #Froslass
+                (504,[0,15,15]), #Patrat
+                (505,[0,15,15]), #Watchog
+                (509,[0,14,13]), #Purrloin
+                (510,[0,10,14]), #Liepard
+                (522,[0,15,13]), #Blitzle
+                (523,[0,12,11]), #Zebstrika
+                (529,[0,15,14]), #Drilbur
+                (530,[0,14,11]), #Excadrill 
+                (538,[2,15,14]), #Throh
+                (539,[0,14,8]), #Sawk
+                (557,[1,15,15]), #Dwebble
+                (558,[3,15,13]), #Crustle
+                (580,[0,15,15]), #Ducklett
+                (581,[2,15,15]), #Swanna
+                (590,[1,15,14]), #Foongus
+                (591,[0,15,15]), #Amoonguss
+                (595,[0,15,14]), #Joltik
+                (596,[3,15,14]), #Galvantula
+                (597,[1,15,12]), #Ferroseed
+                (598,[0,10,12]), #Ferrothorn
+                (607,[0,15,12]), #Litwick
+                (608,[2,15,15]), #Lampent
+                (609,[1,15,7]), #Chandelure
+                (622,[0,14,15]), #Golett
+                (623,[0,3,13]), #Golurk
